@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pinche CHANGO]]></title>
         <description><![CDATA[Pinche CHANGO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pinche-chango/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 16:58:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 17:03:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pinche-chango/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f15032-7e30-4e50-b206-c492e5ffc105.jpg">]]></description>
-            <link>undefined1d77de52-24e0-48ce-9792-83a65bbd1063/index.html</link>
+            <link>https://thegrid.ai/pinche-chango/1d77de52-24e0-48ce-9792-83a65bbd1063/index.html</link>
             <guid isPermaLink="false">1d77de52-24e0-48ce-9792-83a65bbd1063</guid>
-            <pubDate>Fri, 15 Jan 2016 16:58:50 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 17:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

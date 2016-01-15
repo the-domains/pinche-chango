@@ -1,28 +1,40 @@
-name: Pinche CHANGO
-favicon: null
-layout_spectrum: 0.4864
-typography_spectrum: 0.58748
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#03364b'
-    - '#4c7f94'
-    - '#ebebeb'
-    - '#ab184f'
-    - '#d94277'
-  brandStrength: 1
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6255319
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#908778'
+    - '#C5B4A3'
+    - '#E0D7D0'
+    - '#FBFFFF'
+    - '#383139'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.58748
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7531915
+favicon: null
+name: Pinche CHANGO
